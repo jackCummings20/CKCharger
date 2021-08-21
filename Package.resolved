@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CloudKitCodable",
+        "repositoryURL": "https://github.com/jackCummings20/CloudKitCodable",
+        "state": {
+          "branch": null,
+          "revision": "007ede3408b8c1b9eb6c77d324c488470632ad20",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
